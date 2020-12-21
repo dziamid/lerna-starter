@@ -1,5 +1,5 @@
 {
-  "name": "@gmdev/counter",
+  "name": "@dziamid/counter",
   "version": "0.0.3",
   "description": "Example Counter Component",
   "main": "dist/index.js",

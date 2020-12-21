@@ -1,7 +1,7 @@
 {
-  "name": "@gmdev/lerna-starter",
+  "name": "@dziamid/lerna-starter",
   "version": "0.0.1",
-  "description": "@gmdev is my dummy organisation to show scoped packages",
+  "description": "Dummy project to demo lerna capabilities",
   "scripts": {
     "storybook": "NODE_ENV=development start-storybook -p 9001",
     "prestart": "npm install && npm run build",
