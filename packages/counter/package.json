@@ -1,6 +1,6 @@
 {
   "name": "@dziamid/counter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example Counter Component",
   "main": "dist/index.js",
   "module": "src/index.js",

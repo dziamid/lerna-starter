@@ -1,13 +1,13 @@
 {
   "name": "@dziamid/wireframe-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example Wireframe UI",
   "main": "dist/index.js",
   "module": "src/index.js",
   "author": "Gary Meehan",
   "dependencies": {
-    "@dziamid/button": "^1.0.1",
-    "@dziamid/counter": "^1.0.0"
+    "@dziamid/button": "^1.0.2",
+    "@dziamid/counter": "^1.0.1"
   },
   "peerDependencies": {
     "react": "^16.0.0",
