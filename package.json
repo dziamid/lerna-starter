@@ -15,7 +15,8 @@
     "publish-packages": "lerna publish",
     "prepublish-packages": "npm run build",
     "precommit": "npm run test",
-    "postinstall": "npm run bootstrap"
+    "postinstall": "npm run bootstrap",
+    "version": "lerna clean --yes && lerna bootstrap --ignore-scripts -- --no-audit && git add packages/*/package-lock.json"
   },
   "repository": {
     "type": "git",
