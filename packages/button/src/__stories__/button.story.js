@@ -10,7 +10,7 @@ stories.add('Standard Button', () => (
   <Button>
     {({ getProps }) => (
       <button {...getProps()} onClick={action('button')}>
-        Example Button
+        Example Button!
       </button>
     )}
   </Button>

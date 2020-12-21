@@ -10,7 +10,7 @@ stories.add('Counter', () => (
     {({ increase, decrease, count }) => (
       <div>
         <button onClick={decrease}>-</button>
-        <div>{count}</div>
+        <div>{count}!</div>
         <button onClick={increase}>+</button>
       </div>
     )}
